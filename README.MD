@@ -16,7 +16,6 @@ Este projeto visa avaliar e comparar diversas plataformas de gerenciamento de pr
 - Miro
 - Asana
 - Jira
-- Ummense
 
 ## 3. Pontos a Destacar na Diferenciação das Plataformas
 - Recursos exclusivos de cada plataforma
@@ -64,6 +63,3 @@ Este projeto visa avaliar e comparar diversas plataformas de gerenciamento de pr
 ## 14. Relatório Final
 - Síntese das conclusões e recomendações
 - Apresentação de insights para o desenvolvimento de uma plataforma de gerenciamento de projetos atraente e eficaz. 
-# TCC
-# TCC
-# TCC
